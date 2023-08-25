@@ -1,7 +1,7 @@
 # store
 
 A new Flutter project.
-#using getx
+#using getx state management
 
 ## Getting Started
 
