@@ -1,6 +1,7 @@
 # store
 
 A new Flutter project.
+#using getx
 
 ## Getting Started
 
